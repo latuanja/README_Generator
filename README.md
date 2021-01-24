@@ -23,8 +23,8 @@ node index.js
 
 ## Contact
 Questions? Contact Me:
-Email: latuanja.c@gmail.com
-GitHub: https://github.com/latuanja
+* Email: latuanja.c@gmail.com
+* GitHub: https://github.com/latuanja
 
 ## Links
 * GitHub Repo: https://github.com/latuanja/README_Generator
