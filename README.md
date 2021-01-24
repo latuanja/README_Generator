@@ -32,4 +32,4 @@ Questions? Contact Me:
 
 ![image](assets/page_screenshot.png)
 ![image](assets/page_screenshot2.png)
-![video](assets/generator_demo.mov)
+![SC2 Video](assets/generator_demo.gif)
