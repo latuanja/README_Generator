@@ -18,7 +18,7 @@ node index.js
 
 ## Links
 * GitHub Repo: https://github.com/latuanja/README_Generator
-* Demo: 
+* Demo:![video](assets/generator_demo.mov)
 
 ![image](assets/page_screenshot.png)
 ![image](assets/page_screenshot2.png)
