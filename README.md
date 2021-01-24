@@ -21,3 +21,4 @@ node index.js
 * Demo: 
 
 ![image](assets/page_screenshot.png)
+![image](assets/page_screenshot2.png)
